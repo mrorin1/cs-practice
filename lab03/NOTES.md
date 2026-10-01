@@ -24,3 +24,7 @@ Author: Виктор Леонгардт <viktorleongardt@MacBook-Pro-Viktor.loca
 Date:   Thu Oct 1 08:30:26 2026 +0300
 
     division_add
+
+
+git restore - восстанавливает файлы из индекса
+git restore --source - восстанавливает файлы из конкретного коммита или ветки
